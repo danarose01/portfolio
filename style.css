@@ -126,7 +126,8 @@ nav{
    .about-text p{
     font-family: sans-serif;
     font-size: 1.0rem;
-    color:rgba(38, 67, 80, 0.9);
+    color: :rgba(32, 57, 68, 0.9);
+    line-height: 1.8;
     top: 80px;
     left: 280px;
     position: relative;
