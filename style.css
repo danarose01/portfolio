@@ -86,22 +86,22 @@ nav{
 	width: 32px;
 	border-radius: 50%;
 	position: relative;
-	left: 100px;
-	top: 400px;
+	left: 200px;
+	top: 500px;
 }
 .lo{
 	width: 32px;
 	border-radius: 50%;
 	position: relative;
-	left: 110px;
-	top: 400px;
+	left: 210px;
+	top: 500px;
 }
 .log{
 	width: 32px;
 	border-radius: 50%;
 	position: relative;
-	left: 120px;
-	top: 400px;
+	left: 220px;
+	top: 500px;
 }
 #about{
     width:100%;
@@ -297,7 +297,7 @@ nav{
    }
    .end{
     height: 15px;
-    width: 1300px;
+    width: cover;
     top: 80px;
     position: relative;
     background: #28acf8;
