@@ -17,10 +17,11 @@ a{
  width:100%;
  height: 100vh;
  box-sizing: border-box;
- background-size: 1330px;
+ background-size: cover;
  background-position: right bottom;
  background-repeat: no-repeat;
  background-image: url("image/bg.jpg");
+ background-attachment: fixed;	
 }
 nav{
  display:flex;
@@ -108,7 +109,7 @@ nav{
     height: 100vh;
     background-image: url("image/about.jpg");
     background-repeat: no-repeat;
-    background-size: 1300px;
+    background-size: cover;
     overflow-y: hidden;
    }
    .about-text{
@@ -135,7 +136,7 @@ nav{
     height: 100vh;
     background-image: url("image/goals.jpg");
     background-repeat: no-repeat;
-    background-size: 1330px;
+    background-size: cover;
     overflow-y: hidden;
    }
    .gtext{
@@ -161,7 +162,7 @@ nav{
     height: 100vh;
     background-image: url("image/aca.jpg");
     overflow: hidden;
-    background-size: 1330px;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .atext h2{
@@ -204,7 +205,7 @@ nav{
     height: 100vh;
     background-image: url("image/skil.jpg");
     background-repeat: no-repeat;
-    background-size: 1330px;
+    background-size: cover;
     box-sizing: border-box;
     display: flex;
     align-items: center;
