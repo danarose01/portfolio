@@ -51,7 +51,6 @@ nav{
  font-size: 12px;
  
 }
-.active a,
 .menu li a:hover{
  background-color:#2c2626;
  color:rgb(218, 210, 210)!important;
@@ -110,6 +109,7 @@ nav{
     background-image: url("image/about.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    overflow-x: hidden;
     overflow-y: hidden;
    }
    .about-text{
@@ -232,14 +232,14 @@ nav{
    .bar{
      background: #f6fafa;
      display: block;
-     height: 2px;
+     height: 6px;
      border: 1px solid rgba(44, 192, 250, 0.03);
      border-radius: 3px;
      overflow: hidden;
      box-shadow: 0 0 10px #02299b;
    }
    .bar span{
-     height: 2px;
+     height: 5px;
      float: left;
      background: #2904fa;
    }
